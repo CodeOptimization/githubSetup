@@ -41,8 +41,14 @@ Have git software installed on your mac.(This also lead to me another problem).
   
 ## What if you have two Github Accounts.
 
-##Updating repository
+## Updating repository
 
-  * Reference:
+## About My Mac's Problem
 
+### Reference: 
+  * https://help.github.com/articles/connecting-to-github-with-ssh/
+  * https://help.github.com/articles/setting-your-commit-email-address-in-git/
+  * https://alvinalexander.com/git/git-show-change-username-email-address
+  * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+  * https://unix.stackexchange.com/questions/10525/how-to-use-which-on-an-aliased-command
   
