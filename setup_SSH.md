@@ -43,11 +43,12 @@ Have git software installed on your mac.(This also lead to me another problem).
 ## Updating Repository
 
 ## About My Mac's Problem
-Before I set up my SSH connection with GitHub, I had installed Git months ago. I left my previous Github account ID and email to the Git setting information. So by this time, after I pushed any updates, the __git log__ and webpage file show that was finished by my previous account.
+  * Problem Details: 
+  
+  Before I set up my SSH connection with GitHub, I had installed Git months ago. I left my previous Github account ID and email to the Git setting information. So by this time, after I pushed any updates, the __git log__ and webpage file show that was finished by my previous account.
 
-  * Solution: I just simply updated my ID and email information 
-        you can also see your Git username in the Git configuration file in your HOME directory on Unix systems, i.e., this file:
-
+  * Solution: I just simply updated my ID and email information.
+  
         1. Terminal $ vim ~/.gitconfig
         2. The out put will be:
             ...
