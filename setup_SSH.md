@@ -38,9 +38,9 @@ Have git software installed on your mac.(This also lead to me another problem).
 5. Testing your SSH connection.
   * Terminal command: __$ ssh -T git@github.com__, then you may see some warnings, type "yes", you will have it connected.
   
-## What if you have two Github Accounts.
+## What If You Have Two Github Accounts.
 
-## Updating repository
+## Updating Repository
 
 ## About My Mac's Problem
 
