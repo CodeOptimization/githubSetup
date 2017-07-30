@@ -56,6 +56,12 @@ Have git software installed on your mac.(This also lead to me another problem).
             email = PreviousEmail@gmail.com
             ...
         3. Update, then save your update.
+        
+  * Rethink
+  
+        1. I thought there is something wrong with my setup procedures, I tried many times, didn't work.
+        2. I thought it was some chche on SSH agent, then I deleted all keys and cleaned the SSH agent, did't work.
+        3. I change the Github ID & email to my current one,
 
   
 ### Reference: 
