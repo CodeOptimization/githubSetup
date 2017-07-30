@@ -28,7 +28,7 @@ Have git software installed on your mac.(This also lead to me another problem).
   * Add your SSH private key to the ssh-agent and store your passphrase in the keychain. If you created your key with a different name, or if you are adding an existing key that has a different name, replace id_rsa in the command with the name of your private key file.
     __$ ssh-add -K ~/.ssh/id_rsa__
 4. Adding a new SSH key to your GitHub account.
-  * __$ pbcopy < ~/.ssh/id_rsa.pub__, this means "Coping the contents of the id_rsa.pub file to your clipboard__"
+  * __$ pbcopy < ~/.ssh/id_rsa.pub__, this means "Coping the contents of the id_rsa.pub file to your clipboard"
   * In the upper-right corner of any page, click your profile photo, then click __Settings__.
   * In the user settings sidebar, click __SSH and GPG keys__.
   * Click __New SSH key__ or __Add SSH key__.
