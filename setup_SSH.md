@@ -1,5 +1,4 @@
 # SSH Connection Setup
-Haha
 Using the SSH protocol, you can connect and authenticate to remote servers and services. Users could eliminate typing ID & password by setting up ssh connection with github. Here are steps that I used to set up my Mac.
 
 ## Pre-request:
