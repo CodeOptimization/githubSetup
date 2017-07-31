@@ -70,10 +70,12 @@ Have git software installed on your mac.(This also lead to me another problem).
         3. I change the Github ID & email to my current one,
 
 ## What If You Have Two Github Accounts.
-
+  * https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
+  * http://stormzhang.com/other/2013/10/16/github-multiply-ssh-key/
   * http://memoryboxes.github.io/blog/2014/12/07/duo-ge-gitzhang-hao-zhi-jian-de-qie-huan/
   
 ### Reference: 
+  * https://www.youtube.com/watch?v=ruieT3Nkg2M
   * https://help.github.com/articles/connecting-to-github-with-ssh/
   * https://help.github.com/articles/setting-your-commit-email-address-in-git/
   * https://alvinalexander.com/git/git-show-change-username-email-address
