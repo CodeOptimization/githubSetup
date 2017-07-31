@@ -77,4 +77,5 @@ Have git software installed on your mac.(This also lead to me another problem).
   * https://alvinalexander.com/git/git-show-change-username-email-address
   * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
   * https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
+  * https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/ssh-add.1.html
   
