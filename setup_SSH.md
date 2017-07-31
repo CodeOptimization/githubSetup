@@ -70,16 +70,20 @@ Have git software installed on your mac.(This also lead to me another problem).
         3. I change the Github ID & email to my current one,
 
 ## What If You Have Two Github Accounts.
-  * https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
+  
   * http://stormzhang.com/other/2013/10/16/github-multiply-ssh-key/
   * http://memoryboxes.github.io/blog/2014/12/07/duo-ge-gitzhang-hao-zhi-jian-de-qie-huan/
+  * https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574
   
 ### Reference: 
+
   * https://www.youtube.com/watch?v=ruieT3Nkg2M
+  * http://blog.csdn.net/21aspnet/article/details/7249401
+  * http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
   * https://help.github.com/articles/connecting-to-github-with-ssh/
-  * https://help.github.com/articles/setting-your-commit-email-address-in-git/
   * https://alvinalexander.com/git/git-show-change-username-email-address
   * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+  * https://help.github.com/articles/setting-your-commit-email-address-in-git/
   * https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
   * https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/ssh-add.1.html
   * https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/ssh-keygen.1.html
