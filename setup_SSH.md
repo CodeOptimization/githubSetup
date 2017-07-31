@@ -42,6 +42,13 @@ Have git software installed on your mac.(This also lead to me another problem).
 
 ## Updating Repository
 
+  * To get whole project to local: __git clone__ _SSH address to target project_
+  * To update the project: __git pull__
+  * To compare local project with repository: __git status__
+  * To add file fot committing: __git add . (for all)/ file name__
+  * To commint with message: __git commit -m "message"__
+  * To push: __git push origin master__
+  
 ## About My Mac's Problem
   * Problem Details: 
   
