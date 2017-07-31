@@ -12,7 +12,8 @@ Have git software installed on your mac.(This also lead to me another problem).
   * Check the directory listing to see if you already have a public SSH key. If not, Step 2, else step 3.
 
 2. Generating SSH Key.
-  * Terminal command: __$: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"__ //-t for type, -b for size, -C for comments.
+  * Terminal command: __$: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"__ //
+    __-t__ for type, __-b__ for size, __-C__ for comments.
   * __Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]__
   * __Enter passphrase (empty for no passphrase): [Type a passphrase]__
   * __Enter same passphrase again: [Type passphrase again]__
