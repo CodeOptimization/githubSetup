@@ -76,5 +76,5 @@ Have git software installed on your mac.(This also lead to me another problem).
   * https://help.github.com/articles/setting-your-commit-email-address-in-git/
   * https://alvinalexander.com/git/git-show-change-username-email-address
   * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
-  * https://unix.stackexchange.com/questions/10525/how-to-use-which-on-an-aliased-command
+  * https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
   
