@@ -1,5 +1,6 @@
 >  “Last October, Mozilla recorded that more than half of its page loads were encrypted with HTTPS while many major sites, such as Twitter and Facebook, are using HTTPS by default. Another security researcher, Scott Helme, found that of the top million sites listed on Alexa, 18.4 percent are redirecting users’ browsers from HTTP to HTTPS. Granted, 18.4 percent may not seem like a huge segment but that’s more than double the percentage from August 2015.”
->  By Digital Trends
+
+>    * By Digital Trends
 
 # HTTP
 HyperText Transfer Protocol is an __application layer protocol__, which means it focuses on how information is __presented__ to the user of
