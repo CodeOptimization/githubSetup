@@ -64,6 +64,8 @@ The major benefits of a HTTPS certificate are:
   * Customers are more likely to trust and complete purchases from sites that use HTTPS
 
 #### Reference
+  * https://www.entrust.com/is-it-ssl-tls-or-https/
+  * https://www.instantssl.com/https-tutorials/what-is-https.html
   * https://www.instantssl.com/ssl-certificate-products/https.html
   * https://luxsci.com/blog/ssl-versus-tls-whats-the-difference.html
   * https://biztechmagazine.com/article/2017/06/http-vs-https-debate-over-only-one-helps-keep-your-business-safe-cybercrime
